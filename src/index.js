@@ -11,7 +11,7 @@ function run() {
         toolbarSvgIcon: icon24,
         librarySvgIcon: icon48,
         onClick: () => {
-          miro.board.ui.openLibrary('builder.html', {title: 'Template builder'})
+          miro.board.ui.openLibrary('builder.html', {title: 'Templates builder'})
         },
       },
     },
